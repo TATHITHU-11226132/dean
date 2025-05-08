@@ -18,7 +18,7 @@ st.set_page_config(page_title="Phân tích & Dự đoán Doanh thu", layout="wid
 
 # Tiêu đề chính
 st.title("Phân tích và Dự đoán Doanh thu Siêu thị")
-st.markdown("**Trình bày bởi: [Tên bạn]** | Ngày: 08/05/2025")
+st.markdown("**Trình bày bởi: [Tạ Thị Thư _ 11226132_CNTT&CDS_CLC_K64]** | Ngày: 09/05/2025")
 
 # Thanh điều hướng
 st.sidebar.title("Điều hướng")
